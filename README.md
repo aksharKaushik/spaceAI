@@ -23,9 +23,11 @@ SPACEAI/
 
 ### Prerequisites
 
-- Node.js (v16 or higher)
-- MongoDB (running locally or MongoDB Atlas)
-- npm or yarn
+- **Node.js** (v16 or higher) - [Download here](https://nodejs.org/)
+- **MongoDB Server** (not Compass) - [Download here](https://www.mongodb.com/try/download/community)
+- **npm** (comes with Node.js)
+
+**Note:** MongoDB Compass (GUI tool) is optional and not required to run the application.
 
 ### Backend Setup
 
